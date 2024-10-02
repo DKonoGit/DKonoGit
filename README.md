@@ -1,18 +1,18 @@
 ![background](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub)
 
-### About me:
+## About me:
 
 - Разработка UI (XML / JAVA)
 - Разработка простых приложений (JAVA / C++)
 - Разработка простых сайтов (HTML / PHP)
 
-### Programming languages:
-# Mobile:
+## Programming languages:
+### Mobile:
 - **JAVA** / **C++**
-# Web:
+### Web:
 - **HTML** / **PHP**
 
-### Other:
+## Other:
 
 - [Email](mailto:mitkonogit@gmail.com)
 
