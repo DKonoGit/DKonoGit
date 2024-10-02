@@ -15,4 +15,3 @@
 - [Email](mailto:mitkonogit@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKonoGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-About me
