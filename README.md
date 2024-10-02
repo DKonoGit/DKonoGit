@@ -1,7 +1,3 @@
-<div id="header" aligh="center>
-<h1> Привет <h1>
-</div>
-
 ![background](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub)
 
 ## О себе
@@ -18,3 +14,6 @@
 
 ## Email
 - [Email](mailto:mitkonogit@gmail.com)
+
+- markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
