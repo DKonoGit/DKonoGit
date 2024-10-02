@@ -1,4 +1,4 @@
-![background](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub)
+![background](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoA-56brHtwKU9buNSqSdeDPbVpxsceTqMPlBRQ46Nw8Q1L8WwzSx3g3Qc1xzlJE1qTRKNsS89bO1_QmhzqgCLt7is3q0L7aBKulSbSP7OMwI9BsKg9JFtZyllkPL3taE10vvOVrA8PA/s0/new-curriculum-for-android-educators-social-v4.png)
 
 ## About me:
 
