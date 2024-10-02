@@ -2,9 +2,8 @@
 
 ## About me:
 
-- Разработка UI (XML / JAVA)
-- Разработка простых приложений (JAVA / C++)
-- Разработка простых сайтов (HTML / PHP)
+- Разработка UI (XML / JAVA) | Разработка простых приложений (JAVA / C++)
+- Разработка простых сайтов (HTML / PHP) | Серверная логика (Android)
 
 ## Programming languages:
 - **JAVA** / **C++** | Mobile app
