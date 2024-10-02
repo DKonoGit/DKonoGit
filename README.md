@@ -5,14 +5,12 @@
 Моё увлечение - разработка UI (интерфейса) для мобильных приложений.
 Использую XML / JAVA.
 
-### Языки на которых пишу:
+### Programming languages:
 
-- **Java (MOBILE)**: Разработка мобильных приложений на Java.
-- **C++**: Изучение основ и создание простых приложений.
-- **HTML**: Верстка веб-страниц и работа с интерфейсами.
-- **PHP**: Разработка простой серверной логики.
+- **Java (MOBILE)** / **C++** / **HTML** / **PHP**
 
-## Email
+## Other:
+
 - [Email](mailto:mitkonogit@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKonoGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
