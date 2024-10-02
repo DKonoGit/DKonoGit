@@ -7,7 +7,7 @@
 
 ### Programming languages:
 
-- **Java (MOBILE)** / **C++** / **HTML** / **PHP**
+- **JAVA** / **C++** / **HTML** / **PHP**
 
 ## Other:
 
