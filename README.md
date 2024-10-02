@@ -7,10 +7,8 @@
 - Разработка простых сайтов (HTML / PHP)
 
 ## Programming languages:
-### Mobile:
-- **JAVA** / **C++**
-### Web:
-- **HTML** / **PHP**
+- **JAVA** / **C++** | Mobile app
+- **HTML** / **PHP** | Web app
 
 ## Other:
 
